@@ -6,7 +6,7 @@ public class TestTax {
 		//Tax t = new Tax();
 		NJTax t = new NJTax(); 
 		
-			t.grossIncome =40000;
+			t.grossIncome = 50000;
 			t.numberOfDependents = 2;
 			t.state = "NJ";
 			
